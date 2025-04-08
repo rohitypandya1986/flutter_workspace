@@ -1,0 +1,36 @@
+hybrid application development
+
+3.16 stable version flutter
+
+internet must be start when running graddle
+
+
+flutter->dart
+
+.ipa -> iphone application
+.apk -> anroid application
+
+app : shared preference
+website: session
+
+internationalization : l18n // paid google api
+
+localization : l10n  // widely used
+
+.arb file to convert 
+
+mongodb website,
+realm application
+
+--------------------------
+to change the app logo
+1. open 'https://www.appicon.co/'
+2. check androi only and select pic
+3. generate
+4. extract zip folder
+5. overwrite 5 folders in android folder to 'lat_long\android\app\src\main\res'
+---------------------------
+
+Lottifiles to download animation
+
+tween animation
